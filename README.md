@@ -1,4 +1,4 @@
 # ds4bmeTest
 Test repo for HW 2,
 
-Now I have changed the readme using github desktop
+This is the readme in the branch
